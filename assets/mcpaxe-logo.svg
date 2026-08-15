@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="mcpaxe logo">
+  <defs>
+    <linearGradient id="axe" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#a3e635"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="#0d1117"/>
+  <g fill="#30363d">
+    <rect x="52" y="66" width="152" height="28" rx="14"/>
+    <rect x="52" y="114" width="116" height="28" rx="14"/>
+    <rect x="52" y="162" width="80" height="28" rx="14"/>
+  </g>
+  <rect x="109" y="18" width="28" height="228" rx="14" transform="rotate(38 128 132)" fill="url(#axe)"/>
+  <path d="M92 34 L172 58 L136 92 Z" fill="url(#axe)"/>
+</svg>
